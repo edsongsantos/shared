@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Carolina Vigna",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "http://intecnocom.com.br/_projetos/carol/tensors.tsv",
+      "metadataPath": "http://intecnocom.com.br/_projetos/carol/metada_full.tsv"
+    }
+  ]
+}
